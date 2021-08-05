@@ -1,0 +1,2 @@
+Es necesario Ejecutar el ser.py para entrenar al bot, luego se puede proceder a ejecutar el test.py para poder enviar un audio desde telegram y detectar el estado de animo(positivo-negativo)
+Una vez en el chat con el bot de telegram se tiene que ingresar el comando "/start" y luego a proceder a enviar la nota de voz
